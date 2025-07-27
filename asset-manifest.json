@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/project_nextgen/static/css/main.142ce58b.css",
-    "main.js": "/project_nextgen/static/js/main.5e3501dc.js",
+    "main.css": "/project_nextgen/static/css/main.863bf367.css",
+    "main.js": "/project_nextgen/static/js/main.bc2b8bc7.js",
     "static/media/hero.png": "/project_nextgen/static/media/hero.fac19e0f2cbb5be17b6c.png",
     "static/media/bg-hero.jpg": "/project_nextgen/static/media/bg-hero.bdc8de5f63641403a9bf.jpg",
     "static/media/about-4.jpg": "/project_nextgen/static/media/about-4.e5ebcd541d386b69ad28.jpg",
@@ -14,11 +14,11 @@
     "static/media/team-2.jpg": "/project_nextgen/static/media/team-2.a052551d15a289c07a6f.jpg",
     "static/media/team-1.jpg": "/project_nextgen/static/media/team-1.92658d94c39d7c348ed6.jpg",
     "index.html": "/project_nextgen/index.html",
-    "main.142ce58b.css.map": "/project_nextgen/static/css/main.142ce58b.css.map",
-    "main.5e3501dc.js.map": "/project_nextgen/static/js/main.5e3501dc.js.map"
+    "main.863bf367.css.map": "/project_nextgen/static/css/main.863bf367.css.map",
+    "main.bc2b8bc7.js.map": "/project_nextgen/static/js/main.bc2b8bc7.js.map"
   },
   "entrypoints": [
-    "static/css/main.142ce58b.css",
-    "static/js/main.5e3501dc.js"
+    "static/css/main.863bf367.css",
+    "static/js/main.bc2b8bc7.js"
   ]
 }
